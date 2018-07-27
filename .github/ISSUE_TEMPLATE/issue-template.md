@@ -12,9 +12,9 @@ If the matter is security related, please DM an admin on our Telegram channel at
 -->
 
 
-
 ### Issue type
-> Bug or feature request?
+<!--  Bug or feature request? -->
+
 
 ### What happened
 
@@ -23,12 +23,12 @@ If the matter is security related, please DM an admin on our Telegram channel at
 
 
 ### How to reproduce it
-> Steps to reproduce, as minimally and precisely as possible
+<!--  Steps to reproduce, as minimally and precisely as possible -->
 
 
 ### Environment
-> akashd: testnet or local?  If local, what version?
-> akash: OS and other env info as appropriate
+<!--  akashd: testnet or local?  If local, what version? 
+         akash: OS and other env info as appropriate -->
 
 
 ### Anything else we need to know?
